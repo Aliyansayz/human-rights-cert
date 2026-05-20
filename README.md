@@ -7,6 +7,6 @@ human-rights-cert
 
 ---
 
-# [Image Title Placeholder 2]
+# Economic, Social and Cultural Rights 
 
 ![Image 2](Screenshot_20260520-160252.png)
