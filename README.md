@@ -1,7 +1,7 @@
 # human-rights-cert
 human-rights-cert
 
-# [Image Title Placeholder 1]
+# An Introduction To Human Rights 
 
 ![Image 1](Screenshot_20260520-160245.png)
 
